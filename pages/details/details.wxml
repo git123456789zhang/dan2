@@ -1,0 +1,48 @@
+<!--结算-->
+<view>
+    <!--地址-->
+    <view class="now">
+      <!--图标-->
+      <view class="map" >
+        <image src="../../images/map-icon.png" style="width:30px;height:30px"></image>
+      </view>
+      <!--收货人信息-->
+      <view class="dl">
+         <view class="dt">
+          <b>瑾晨</b>
+          <strong>13035059860</strong>
+         </view>
+         <view class="dd">安徽省合肥市XXXXXXXX</view>
+         <p>其他地址 </p>
+      </view>
+    </view>
+
+    <!--地址修改-->
+    <view class="to-now">
+        <view class="map" >
+          <image src="../../images/check.png" style="width:30px;height:30px"></image>
+          <!--<label for="tonow" onselectstart="return false"></label>
+          <input id="tonow" type="checkbox"></input>-->
+        </view>
+        <view class="dl1">
+            <view class="dt1">
+              <b>瑾晨</b>
+              <strong>13035059860</strong>
+            </view>
+            <view class="dd1">安徽省合肥市XXXXXXXX</view>
+        </view>
+        <view class="h3">
+          <image src="../../images/write.png" style="height:20px"></image>
+        </view>
+    </view>
+
+    <!--购买商品所有信息-->
+    <view class="buy-list">
+           <!--商品信息-->
+           <view class="goods-ul">
+                  <image src="../../images/detail-pp01.png" style="width:80px;height:90px"></image>
+           </view>
+
+    </view>
+
+</view>

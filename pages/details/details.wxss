@@ -1,0 +1,123 @@
+.now{
+  background-color: #666;
+    margin-bottom: 3%;
+    overflow: hidden;
+    padding: 6% 0 8%;
+    position: relative;
+    width: 100%;
+}
+.map{
+    display: block;
+    float: left;
+    margin: 6% 0;
+    text-align: center;
+    width: 20%;
+}
+.dl{
+   color: #fff;
+    float: left;
+    line-height: 1.6;
+    overflow: hidden;
+    width: 70%;
+}
+.dt{
+    margin-bottom: 2%;
+    overflow: hidden;
+    width: 100%;
+}
+.dt b{
+    font-size: 1.05em;
+    font-weight: normal;
+}
+.dt strong{
+  color: #fff;
+    font-size: 1.05em;
+    font-weight: normal;
+    margin-left: 3%;
+}
+.dd{
+    font-size: 1.05em;
+    text-align: justify;
+}
+.dl p{
+  background: rgba(0, 0, 0, 0) url("../images/downred.png") no-repeat scroll 100% center / 16% auto;
+    bottom: 5%;
+    color: #db3752;
+    font-size: 1.05em;
+    position: absolute;
+    right: 10%;
+    width: 24%;
+}
+
+.to-now {
+    background-color: #fff;
+    margin-bottom: 3%;
+    overflow: hidden;
+    padding: 6% 0;
+    width: 100%;
+}
+.to-now {
+    background-color: #fff;
+    margin-bottom: 3%;
+    overflow: hidden;
+    padding: 6% 0;
+    width: 100%;
+}
+.to-now .tonow label{
+    background: rgba(0, 0, 0, 0) url("../images/check.png") no-repeat scroll 50% center / 60% auto;
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+.dl1{
+    color: #666;
+    float: left;
+    line-height: 1.6;
+    overflow: hidden;
+    width: 60%;
+}
+.dt1{
+    margin-bottom: 2%;
+    overflow: hidden;
+    width: 100%;
+}
+.dt1 b{
+     font-size: 1.15em;
+    font-weight: normal;
+}
+.dt1 strong{
+    color: #666;
+    font-size: 1.15em;
+    font-weight: normal;
+    margin-left: 3%;
+}
+.dd1{
+    font-size: 1.15em;
+    text-align: justify;
+}
+.h3{
+    border-left: 1px solid #ccc;
+    float: right;
+    margin: 1% 0 3% -1px;
+    padding: 3% 0;
+    width: 14%;
+}
+.h3 image{
+    margin: 0 33%;
+    width: 36%;
+}
+.buy-list{
+    background-color: #fff;
+    width: 100%;
+}
+.goods-ul{
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+    padding: 4%;
+    position: relative;
+    width: 92%;
+}
+goods-ul image{
+    min-height: 5em;
+    width: 100%;
+}
